@@ -163,3 +163,24 @@ A day before today, a day ahead tomoow.
 | Test Team       | High/Low  |
 
 
+## Test Schedule
+
+### Milestones and schedule
+
+| Milestone      | Members | Effort(Person Hour)  | Start Date | End date |
+|----------------|---------|----------------------|------------|----------|
+| Test Design    |         |                      |            |          |
+| Test Execution |         |                      |            |          |
+| Test Report    |         |                      |            |          |
+
+___
+
+## Test Plan Approval
+
+## Appendix A: References
+
+The following table summarizes the documents referenced in this document.
+
+| Document Name and Version | Description | Location |
+|---------------------------|-------------|----------|
+| List.am release plan      |             |          |
