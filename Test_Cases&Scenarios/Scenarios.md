@@ -1,12 +1,5 @@
 # Test Scenarios
 
-## Home Page Ad section
-
-* Banner - click on any banner to verify banner and it's landing page
-* Banner - click anywhere on banner and verify landing page
-* Banner - mobile sites, mobile app, tablet etc
-
-
 ## Login Flow
 
 ### Functional
